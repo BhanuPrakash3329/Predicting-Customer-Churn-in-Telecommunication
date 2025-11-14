@@ -1,0 +1,8 @@
+README.md
+setup.py
+customer_churn_prediction.egg-info/PKG-INFO
+customer_churn_prediction.egg-info/SOURCES.txt
+customer_churn_prediction.egg-info/dependency_links.txt
+customer_churn_prediction.egg-info/requires.txt
+customer_churn_prediction.egg-info/top_level.txt
+tests/test_model.py
