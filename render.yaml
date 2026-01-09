@@ -1,0 +1,9 @@
+services:
+  - type: web
+    name: customer-churn-prediction
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python app/app.py
+    envVars:
+      - key: PORT
+        value: 10000
